@@ -29,7 +29,7 @@ Second Package Hit
 +-------------+----------+-------------+
 ```
 
-### Benifits
+### Benefits
 - Reduce the need of having to host an entire mirror
 - Have quick access to quick package installs when testing building out new infrastructure
 
